@@ -1,4 +1,4 @@
-![logo]("")
+![logo]("https://github.com/codingbot023/Sreesurya/blob/main/images.jpeg")
 <h1 align="center">Hi 👋, I'm Sreesurya</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5402.jpg"
 <img align="right" alt="coding" width="300" src="
